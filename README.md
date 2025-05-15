@@ -1,15 +1,4 @@
-## I am active here.
-
-### Japanese
-- https://puklipo.com/
-
-### English
-- https://laracasts.com/discuss
-- https://stackoverflow.com/questions/tagged/laravel
-
-### Contact
-- [e-mail](mailto:pcs.engineer.team@gmail.com)
-- [Discord](https://discord.gg/T7DWTJWdEt)
+😇
 
 <!--
 **puklipo/puklipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
